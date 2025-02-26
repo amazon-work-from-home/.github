@@ -60,7 +60,7 @@
         <p>FlexJobs has the most up-to-date Amazon Jobs & Careers listings for Remote, Work From Home & Flexible positions:</p>
         <ol>
             <li>Visit the <a href="https://www.workoverwifi.com/recommends/flexjobs/">FlexJobs website</a>.</li>
-            <li>Search for "remote customer service" or "virtual jobs."</li>
+            <li>Search for "Amazon remote customer service" or "Amazon virtual jobs."</li>
             <li>Review job listings, check the requirements, and submit your application online.</li>
         </ol>
         <p>Since Amazon receives a high volume of applications, applying as soon as possible increases your chances of getting hired.</p>
