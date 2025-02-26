@@ -7,12 +7,14 @@
    <p><strong>Story by Joss Hurman</strong> | <time datetime</time></time></p>
 
    <figure>
-     <img
+     <a href="https://www.workoverwifi.com/recommends/flexjobs/">
+   <img
        src="https://www.workoverwifi.com/wp-content/uploads/2025/02/A-professional-woman-working-from-home-for-Amazon.-She-is-sitting-at-a-modern-desk-with-a-laptop-wearing-a-headset-and-smiling-while-assisting-a-cus-copy.jpg"
        alt="a graphic showing the best amazon work from home jobs"
        width="800"
        height="800"
       />
+     </a>
    </figure>
    <section>
         <h2>How Much Do Amazon Work From Home Jobs Pay?</h2>
