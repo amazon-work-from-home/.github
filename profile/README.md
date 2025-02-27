@@ -11,8 +11,8 @@
    <img
        src="https://www.workoverwifi.com/wp-content/uploads/2025/02/A-professional-woman-working-from-home-for-Amazon.-She-is-sitting-at-a-modern-desk-with-a-laptop-wearing-a-headset-and-smiling-while-assisting-a-cus-copy.jpg"
        alt="a graphic showing the best amazon work from home jobs"
-       width="800"
-       height="800"
+       width="500"
+       height="500"
       />
      </a>
    </figure>
